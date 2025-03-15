@@ -26,7 +26,21 @@ This project analyzes key performance indicators (**KPIs**) for pizza sales to g
      ```
      Avg Pizzas per Order = Total Pizzas Sold / Total Orders
      ```
-   - Indicates the average number of pizzas purchased per order.  
+   - Indicates the average number of pizzas purchased per order.
+  
+## 📌 Additional Analysis
+
+1. Daily Trend for Total Orders
+- Identifies order volume patterns on a daily basis.
+
+2. Hourly Trend for Total Orders
+- Identifies peak hours of order activity.
+
+3. Monthly Trend for Total Orders
+- Analyzes order trends across different months.
+
+4. Percentage of Sales by Pizza Category
+- Provides insights into the popularity of different pizza categories.
 
 ## 📊 Dataset Used  
 The **pizza_sales** dataset contains order details, including order date, order ID, pizza types, quantities, and total price.  
